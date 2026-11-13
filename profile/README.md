@@ -11,4 +11,4 @@ Reception is a hosted support chat for mobile apps. Your customers write to you 
 
 [All guides](https://reception.sh/docs) · [Get started](https://reception.sh/docs/get-started) · [reception.sh](https://reception.sh)
 
-$30 per month per organization, with a 7-day free trial on the first subscription. The SDKs are MIT-licensed.
+$30 per month or $250 per year per organization, with a 7-day free trial on the first subscription. The SDKs are MIT-licensed.
